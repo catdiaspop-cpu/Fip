@@ -1,4 +1,4 @@
-[Uploadi# 🌊 FIP / TW3AST v2.1.0
+# 🌊 FIP / TW3AST v0.1
 ### Сверхлёгкий (37 КБ) потоковый реактор и топологический DSL для WebAssembly
 
 [![Wasm Size](https://img.shields.io/badge/Wasm_Size-37_KB-brightgreen.svg?style=for-the-badge)](public/fip.wasm)
@@ -6,7 +6,7 @@
 [![Memory Management](https://img.shields.io/badge/Garbage_Collection-Zero_GC_Arena-purple.svg?style=for-the-badge)](#управление-памятью)
 [![Safety](https://img.shields.io/badge/Kernel_Guard-Protected_Memory-orange.svg?style=for-the-badge)](#безопасность)
 
-> **FIP (Flow Inspection Pipeline)** на базе **TW3AST (Topological WebAssembly Active Abstract Syntax Tree)** — это встраиваемый язык и рантайм нового поколения для потоковой фильтрации данных, WAF-шлюзов, Edge-вычислений и IoT.
+> **Fil** на базе **TW3AST (Topological WebAssembly Active Abstract Syntax Tree)** — это встраиваемый язык и рантайм нового поколения для потоковой фильтрации данных, WAF-шлюзов, Edge-вычислений и IoT.
 
 ---
 
