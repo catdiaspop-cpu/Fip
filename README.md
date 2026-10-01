@@ -6,7 +6,7 @@
 [![Memory Management](https://img.shields.io/badge/Garbage_Collection-Zero_GC_Arena-purple.svg?style=for-the-badge)](#управление-памятью)
 [![Safety](https://img.shields.io/badge/Kernel_Guard-Protected_Memory-orange.svg?style=for-the-badge)](#безопасность)
 
-> **Fil** на базе **TW3AST (Topological WebAssembly Active Abstract Syntax Tree)** — это встраиваемый язык и рантайм нового поколения для потоковой фильтрации данных, WAF-шлюзов, Edge-вычислений и IoT.
+> **Fip** на базе **TW3AST (Topological WebAssembly Active Abstract Syntax Tree)** — это встраиваемый язык и рантайм нового поколения для потоковой фильтрации данных, WAF-шлюзов, Edge-вычислений и IoT.
 
 ---
 
